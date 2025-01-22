@@ -11,3 +11,9 @@ Card Sizes & Images: I learned that making the cards taller or shorter also move
 Image Links: I learned that you have to use the exact link to the picture or it wont work.
 Making Cards: I learned how to make the cards do stuff when you click on them, like change how they look.
 Web Page Tricks: I learned about all these things you can do to make web pages look and act different, like how to space things out, make them move smoothly, and position them exactly where you want.
+
+
+0002 Time Tracker
+
+Moving Words: I found out that you can move words by adding Top or Bottom and Left or right then u give a number with px to move it.
+New Text: To add new texts u need to add body then a name for mine i did h2 your may be something else.
