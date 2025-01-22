@@ -17,3 +17,10 @@ Web Page Tricks: I learned about all these things you can do to make web pages l
 
 Moving Words: I found out that you can move words by adding Top or Bottom and Left or right then u give a number with px to move it.
 New Text: To add new texts u need to add body then a name for mine i did h2 your may be something else.
+
+0003 Colourful Progress Steps
+
+Colourful backround: In this script I tried something new and tried to add multiple backrounds colours and it worked.
+
+Progress Numbers: I added more progress numbers which was different to what I thought i just had to add a line saying <div class="circle">4</div>
+
