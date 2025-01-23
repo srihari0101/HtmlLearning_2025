@@ -1,0 +1,128 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: rgb(9, 139, 148);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://images.unsplash.com/photo-1517849845537-4d257902454a?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+}
+
+img{
+    position: absolute;
+    width: 70px;
+    left: 50%;
+    transform: translateX(-50%);
+    top:80px;
+}
+
+
+.clock{
+    width: 350px;
+    height: 350px;
+    background-color: rgb(25, 152, 168);
+    border-radius: 50%;
+    border: 5px solid rgb(0, 0, 0);
+    box-shadow: 1px 1px 4px rgba(0,0,0,0.7);
+    position: relative;
+}
+
+.numbers div{
+    position: absolute;
+    font-size: 27px;
+    color: lightgoldenrodyellow;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.7);
+}
+
+
+.twelve{
+    top:6px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.three{
+    top:50%;
+    right: 6px;
+    transform: translateY(-50%);
+}
+
+.six{
+    bottom: 6px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.nine{
+    left: 6px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.twelve{
+    top:6px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.three{
+    top:50%;
+    right: 6px;
+    transform: translateY(-50%);
+}
+
+.six{
+    bottom: 6px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.nine{
+    left: 6px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.arrows{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.arrows::before{
+    content: "";
+    width: 25px;
+    height: 25px;
+    background-color: rgb(167, 33, 33);
+    border-radius: 50%;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.7);
+    z-index: 4;
+}
+
+
+.arrows div{
+    width: 7px;
+    height: 120px;
+    background-color: rgb(0, 247, 12);
+    position: absolute;
+    bottom: 50%;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.7);
+    border-radius: 50% 50% 0 0;
+    transform-origin:  bottom center;
+    z-index: 3;
+}
+
+.arrows .hour{
+    height: 80px;
+    transform: rotate(30deg);
+    background-color: rgb(255, 0, 0);
+}
+
+.arrows .second{
+    background-color: rgb(17, 0, 255);
+    transform: rotate(250deg);
+}
+    

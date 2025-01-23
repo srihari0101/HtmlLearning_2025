@@ -20,11 +20,21 @@ New Text: To add new texts u need to add body then a name for mine i did h2 your
 
 0003 Colorful Progress Steps
 
-Colourful backround: In this script I tried something new and tried to add multiple backrounds colours and it worked.
+multi backround: I edited some of original lines which helped me show the same thing 4 times but saidly I cant 
 
 Progress Numbers: I added more progress numbers which was different to what I thought i just had to add a line saying <div class="circle">4</div>
 
 0004
 
 CountDown: In this script I changed the year it was in 2025 and the days were -22 days so i changed the year to 2026 in the index file.
-colour: I changed the colour of the words by going to styple and look at the locations. 
+
+Colour: I changed the colour of the words by going to styple and look at the locations. 
+
+
+
+0005
+Backround: I added a new line which helped add a image I used the past activitys I edited and added their lines which helped me get the dog backround. 
+
+New Logo: I changed the logo by adding a new link which I found in google it helped me exlore new options like transprancy and many more.
+
+Colour: I could change the colours of eveything by adding a line or going to the arrow line and adding Background-colour: it gives option to choose and add colour.
